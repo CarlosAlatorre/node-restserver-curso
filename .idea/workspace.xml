@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9930ee0f-53cd-4aac-8183-7c91b02bf1e6" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/07-restserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,8 +72,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="840" />
-    <option name="width" value="1088" />
-    <option name="height" value="1038" />
+    <option name="width" value="1089" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532222309079</updated>
-      <workItem from="1532222310727" duration="2563000" />
+      <workItem from="1532222310727" duration="2920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2563000" />
+    <option name="totallyTimeSpent" value="2920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="672" y="0" width="870" height="830" extended-state="0" />
